@@ -1,8 +1,8 @@
 black
 ipykernel
 numpy
-pandas
 matplotlib
 plotly
-seaborn
 sklearn
+statsmodels
+
